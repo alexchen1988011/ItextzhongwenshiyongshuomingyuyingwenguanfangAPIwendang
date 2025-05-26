@@ -1,1 +1,20 @@
-# ItextzhongwenshiyongshuomingyuyingwenguanfangAPIwendang
+# Itext中文使用说明与英文官方API文档
+
+本仓库提供了一个包含Itext中文使用说明和英文官方API文档的资源文件下载。该资源文件包含了以下三个部分：
+
+1. **官方英文版API文档**：详细介绍了Itext的API接口，适合开发者深入了解Itext的功能和使用方法。
+
+2. **中文版使用说明**：提供了Itext的中文使用指南，帮助中文用户快速上手并掌握Itext的基本操作。
+
+3. **中文版参考手册**：作为中文用户的参考资料，详细解释了Itext的各种功能和使用场景，方便用户在实际开发中查阅。
+
+通过下载本资源文件，您将能够全面了解Itext的使用方法和API接口，无论是初学者还是有经验的开发者，都能从中受益。
+
+## 下载链接
+[Itext中文使用说明与英文官方API文档](https://pan.quark.cn/s/57988e21b3e4) 
+
+(备用: [备用下载](https://pan.baidu.com/s/1FWDc20pyEe4g_PZ4EXJtNw?pwd=1234))
+
+## 说明
+
+该仓库仅用于学习交流，请勿用于商业用途。
